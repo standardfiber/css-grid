@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: cornsilk;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-rows: repeat(3, 100px);
+  grid-gap: 3px;
+}

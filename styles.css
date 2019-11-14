@@ -1,0 +1,16 @@
+.box1, .box6, .box10 {
+  background: lightgray;
+}
+
+.box2, .box7, .box11 {
+  background: gray;
+}
+
+.box3, .box5, .box9 {
+  background: #555;
+  color: white;
+}
+
+.box4, .box8, .box12 {
+  background: darkgray;
+}
